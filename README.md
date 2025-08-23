@@ -1,1 +1,1 @@
-# Foundations of Machine Learning 英文版PDF分享
+研讨班的一些资料
